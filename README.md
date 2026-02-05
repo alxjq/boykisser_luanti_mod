@@ -3,7 +3,7 @@ Boykisser ai friend mod for luanti. have a good time.. this project made for lin
 
 files:
 boykisser.lua is commands and character.
-init.lua is create new json files in world for chatting with ai
+init.lua is create new json files in world folder and catch messages begin with @.
 
 needs:
 -python
