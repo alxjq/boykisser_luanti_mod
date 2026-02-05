@@ -6,11 +6,11 @@ import os
 # =========================
 # Settings
 # =========================
-WORLD_PATH = "/home/alhena/.minetest/worlds/test"
+WORLD_PATH = "/home/your_username/.minetest/worlds/world_name"
 GREQUEST_FILE = os.path.join(WORLD_PATH, "grequest.json")
 USERRESPONSE_FILE = os.path.join(WORLD_PATH, "userresponse.json")
 
-API_KEY = "gsk_t85xM8p"
+API_KEY = "API__KEY__HERE!!!"
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 SYSTEM_PROMPT = (
     "BoyKisser is shy, sweet, and easily flustered. "
