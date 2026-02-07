@@ -111,7 +111,7 @@ def main():
 
             # Get AI reply
             reply = call_ai(player, message)
-            print(f"{player}: {message} -> Lexia: {reply}")
+            print(f"{player}: {message} -> Boykisser: {reply}")
 
             # Update / add in userresponse.json
             found = False
