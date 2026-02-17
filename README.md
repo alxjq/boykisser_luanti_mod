@@ -1,16 +1,45 @@
-# boykisser_luanti_mod
-Boykisser ai friend mod for luanti. have a good time.. this project made for linux operating systems.
+# 🐾 Boykisser Luanti AI Mod
 
-files:
-boykisser.lua is commands and character.
-init.lua is create new json files in world folder and catch messages begin with @.
+Boykisser AI Friend Mod for **Luanti (Minetest)**.  
+Have fun chatting with your AI companion inside your world!
 
-needs:
--python
--luanti
--groq api key(https://console.groq.com/home)
+This project is designed primarily for Linux operating systems.
 
-put mod files in mods folder in minetest folder.
-dont put python file!!!
+---
 
-and python file need to run when you will play mod
+## ✨ Features
+
+- 🤖 AI companion inside Luanti
+- 💬 Chat interaction system
+- 🧠 Uses Groq API for AI responses
+- 📂 Automatically creates JSON files in the world folder
+- 🎮 Responds to messages starting with `@`
+
+---
+
+## 📁 Files
+
+| File | Description |
+|------|-------------|
+| `boykisser.lua` | Contains character logic and chat commands |
+| `init.lua` | Creates JSON files in world folder and listens for messages starting with `@` |
+| `python_script.py` | Handles API communication (DO NOT put this inside the mod folder) |
+
+---
+
+## ⚙️ Requirements
+
+- 🐧 Linux operating system (recommended)
+- 🧱 Luanti (Minetest engine)
+- 🐍 Python 3
+- 🔑 Groq API key  
+  Get one here: https://console.groq.com/home
+
+---
+
+## 📦 Installation
+
+1. Locate your Luanti (Minetest) directory.
+2. Open the `mods` folder.
+3. Create a new folder named:
+
