@@ -23,7 +23,7 @@ This project is designed primarily for Linux operating systems.
 |------|-------------|
 | `boykisser.lua` | Contains character logic and chat commands |
 | `init.lua` | Creates JSON files in world folder and listens for messages starting with `@` |
-| `python_script.py` | Handles API communication (DO NOT put this inside the mod folder) |
+| `luanti.py` | Handles API communication (DO NOT put this inside the mod folder) |
 
 ---
 
